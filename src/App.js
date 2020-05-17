@@ -7,17 +7,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <img src="https://www.incimages.com/uploaded_files/image/970x450/getty_660582997_412145.jpg" />
+        <img src="https://s7d2.scene7.com/is/image/TWCNews/rain_showers_jpg" />
+        
         <p>
           This is Anujan's Website
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://rainymood.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Click for some ASMR
         </a>
       </header>
     </div>
